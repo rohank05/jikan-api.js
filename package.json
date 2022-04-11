@@ -11,7 +11,7 @@
     "import": "./dist/index.mjs"
   },
   "dependencies": {
-    "@types/node-fetch": "^2.5.12",
+    "@types/node-fetch": "^2.6.1",
     "node-fetch": "^2.6.1",
     "prettier": "^2.3.2"
   },
